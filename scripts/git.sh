@@ -2,7 +2,7 @@
 
 echo Installing and Setting Git now...
 
-# Install Vim
+# Install Git
 #==============================================================================
 brew install git
 brew install git bash-completion
