@@ -80,7 +80,7 @@ fi
 
 fancy_echo "Updating Homebrew formulae ..."
 brew update
-bash brewbundle.sh
+bash scripts/brewbundle.sh
 
 fancy_echo "Configuring Ruby ..."
 
@@ -100,5 +100,5 @@ gem_install_or_update 'bundler'
 number_of_cores=$(sysctl -n hw.ncpu)
 bundle config --global jobs $((number_of_cores - 1))
 
-bash appbundle.sh
+bash scripts/appbundle.sh
 
