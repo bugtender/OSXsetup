@@ -16,5 +16,5 @@ brew install ruby-build
 
 # Install Databases
 #==============================================================================
-brew install postgres, restart_service: true
-brew install redis, restart_service: true
+brew install postgres
+brew install redis
