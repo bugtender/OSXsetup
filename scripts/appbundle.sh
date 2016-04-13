@@ -10,15 +10,26 @@ brew cask install caskroom-versions/sublime-text3
 #==============================================================================
 brew cask install firefox
 brew cask install google-chrome
+brew cask install tor
 
 # Tools
 #==============================================================================
 brew cask install sketch
+brew cask install bettertouchtool
+brew cask install sourcetree
+brew cask install qlmarkdown
 
-# Others
+# Sync
 #==============================================================================
 brew cask install dropbox
+brew cask install google-drive
 brew cask install teamviewer
+
+# Virtual Tool
+#==============================================================================
 brew cask install virtualbox
 brew cask install vagrant
-brew cask install steam
+
+# Other
+#==============================================================================
+brew cask install welly
