@@ -8,8 +8,8 @@ A Macbook.
 
 ## How to start
 
-1. Install Xcode
-2. Install XCode Command Line Tools
+1. Install Xcode and remember open it.
+2. Install XCode Command Line Tools `xcode-select --install`
 3. `$ cd OSXsetup`
 4. `$ bash setup.sh | tee ~/install.log`
 
@@ -42,7 +42,7 @@ A Macbook.
 [Postgres]: http://www.postgresql.org/
 [Redis]: http://redis.io/
 
-It should take less than 15 minutes to install (depends on your machine).
+It should take less than 20 minutes to install (depends on your machine).
 
 ## License
 MIT

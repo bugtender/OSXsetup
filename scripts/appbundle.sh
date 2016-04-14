@@ -10,7 +10,7 @@ brew cask install caskroom-versions/sublime-text3
 #==============================================================================
 brew cask install firefox
 brew cask install google-chrome
-brew cask install tor
+brew cask install torbrowser
 
 # Tools
 #==============================================================================
@@ -33,3 +33,5 @@ brew cask install vagrant
 # Other
 #==============================================================================
 brew cask install welly
+brew cask install telegram
+

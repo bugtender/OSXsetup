@@ -51,3 +51,7 @@ import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc5
   "trim_trailing_white_space_on_save": true
 }
 ```
+
+## Warning
+
+SublimeText rubycop use rvm. so if you use rbenv you need to setup.
