@@ -42,6 +42,42 @@ A Macbook.
 [Postgres]: http://www.postgresql.org/
 [Redis]: http://redis.io/
 
+## What app will sets up
+
+* [sublime-text3]
+* [firefox]
+* [google-chrome]
+* [torbrowser]
+* [sketch]
+* [slack]
+* [bettertouchtool]
+* [sourcetree]
+* [qlmarkdown]
+* [dropbox]
+* [google-drive]
+* [teamviewer]
+* [virtualbox]
+* [vagrant]
+* [welly]
+* [telegram]
+
+[sublime-text3]: https://www.sublimetext.com/3
+[firefox]: https://www.mozilla.org/en-US/firefox/new/
+[google-chrome]: www.google.com/chrome
+[torbrowser]: https://www.torproject.org/projects/torbrowser.html.en
+[sketch]: https://www.sketchapp.com/
+[slack]: https://slack.com/
+[bettertouchtool]: https://www.boastr.net/
+[sourcetree]: https://www.sourcetreeapp.com/
+[qlmarkdown]: https://github.com/toland/qlmarkdown
+[dropbox]: https://www.dropbox.com/
+[google-drive]: https://www.google.com/drive/
+[teamviewer]: https://www.teamviewer.com/en/
+[virtualbox]: https://www.virtualbox.org/
+[vagrant]: https://www.vagrantup.com/
+[welly]: https://code.google.com/archive/p/welly/
+[telegram]: https://telegram.org/
+
 It should take less than 20 minutes to install (depends on your machine).
 
 ## License

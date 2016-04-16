@@ -15,6 +15,7 @@ brew cask install torbrowser
 # Tools
 #==============================================================================
 brew cask install sketch
+brew cask install slack
 brew cask install bettertouchtool
 brew cask install sourcetree
 brew cask install qlmarkdown
